@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding:0;
+}
+
+.test1{
+    font-size: 50px;
+}
+.test2{
+    color: red;
+    font-size: 40px;
+}
+.test3{
+    color: blue;
+    font-size: 30px;
+}
+.test4{
+    text-align: center;
+    font-size: 25px;
+}
+.test5{
+    text-align: end;
+    font-size: 20;
+}
+.test6{
+    border-bottom:3px solid red;
+    font-size: 80px;
+    display: inline-block;
+}
+
+.test7{
+    font-size: 50px;
+    font-weight: bold;
+}
+.test8{
+    color: red;
+    font-size: 30px;
+}
+.test9{
+    color: green;
+    font-size: 30px
+}
+.text{
+    display: flex;
+}
+.test10{
+    font-size: 100px;
+    border: 10px double red;
+    text-align: center;
+}
